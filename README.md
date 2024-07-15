@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Tony
-- 👀 I’m interested in programming and cyber security
-- 🌱 I’m currently learning Django
-- ALX SE program currently
+- 👀 Software Dev
 - 📫 How to reach me mainaantony07@gmail.com
 
 <!---
